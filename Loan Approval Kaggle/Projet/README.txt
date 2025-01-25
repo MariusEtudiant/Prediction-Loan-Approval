@@ -3,6 +3,6 @@ Je reste disponible par mail pour toutes questions ou autres.
 
 Cordialement,
  
-Merci, à bientôt 
-Marius Casamian L3 IA, cm205773 
+Merci,
+Marius Casamian 
 
