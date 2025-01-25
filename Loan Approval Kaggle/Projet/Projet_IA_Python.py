@@ -1,10 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ### Marius Casamian / L3 IA PROJET
+# ### Marius Casamian 
 # ### Objectifs: Probleme de classification binaire, demande de prêt approuvé ou non
 # ### Compte-Rendu en pièce jointe dans le projet
-# ### PS: Notebook effectuer seul le plus possible pour évaluer mon vrai niveau à travers ce défi et connaître mes points forts et faibles ainsi que ma marge de progression!
 
 # In[1]:
 
