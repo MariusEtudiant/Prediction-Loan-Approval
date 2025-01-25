@@ -1,5 +1,3 @@
-# 🎢 Welcome to the 2024 Kaggle Playground Series!
-
 ## 🏆 Competition Overview
 
 Welcome to the **2024 Kaggle Playground Series**! This exciting competition offers an approachable yet challenging dataset designed to help the community practice and refine their machine learning skills. A new competition is anticipated each month, bringing fresh opportunities to learn and compete.
